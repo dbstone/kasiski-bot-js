@@ -1,0 +1,14 @@
+{
+  "name": "kasiski-bot",
+  "version": "0.0.1",
+  "description": "a discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devin Stone",
+  "license": "ISC",
+  "dependencies": {
+    "ytdl-core": "^2.0.1"
+  }
+}
